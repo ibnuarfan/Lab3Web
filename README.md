@@ -19,5 +19,8 @@ Membuat tabel dengan rowspan dan tanpa rowspan
 ![prosestable1a](https://user-images.githubusercontent.com/81373389/114143590-8a2a9280-993e-11eb-8189-d246e67edbf3.JPG)
 ![hasiltabel1a](https://user-images.githubusercontent.com/81373389/114143611-8eef4680-993e-11eb-981d-34a9e9daf5c5.JPG)
 
+Menbuat form
+
+
 
 
