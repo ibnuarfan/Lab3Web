@@ -26,6 +26,11 @@ Membuat form
 
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 jawab :
+![TUGAS1](https://user-images.githubusercontent.com/81373389/114153495-8f410f00-9949-11eb-9edc-7e6c444ed083.JPG)
+![TUGAS1a](https://user-images.githubusercontent.com/81373389/114153522-95cf8680-9949-11eb-80fc-26e625e18f0a.JPG)
+![tugas1b](https://user-images.githubusercontent.com/81373389/114153539-9b2cd100-9949-11eb-8a62-b899428be00e.JPG)
+![hasiltugas](https://user-images.githubusercontent.com/81373389/114153558-a1bb4880-9949-11eb-87c6-08f8ddc94025.JPG)
+
 
 
 
