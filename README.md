@@ -10,3 +10,5 @@
 
 jawab :
 Membuat ordered lis,unordered list,dan Description list
+![proses1](https://user-images.githubusercontent.com/81373389/114141207-7cbfd900-993b-11eb-93fc-b5de87b33d05.JPG)
+
