@@ -30,6 +30,8 @@ jawab :
 ![TUGAS1a](https://user-images.githubusercontent.com/81373389/114153522-95cf8680-9949-11eb-80fc-26e625e18f0a.JPG)
 ![tugas1b](https://user-images.githubusercontent.com/81373389/114153539-9b2cd100-9949-11eb-8a62-b899428be00e.JPG)
 ![hasiltugas](https://user-images.githubusercontent.com/81373389/114153558-a1bb4880-9949-11eb-87c6-08f8ddc94025.JPG)
+![tugas2hasil](https://user-images.githubusercontent.com/81373389/114411383-54074000-9bd6-11eb-83a9-e31d39267f16.JPG)
+
 
 
 
